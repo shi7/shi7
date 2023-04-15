@@ -1,7 +1,7 @@
 <span> Hello World!! </span>
 - 👋 Hi, I’m shi7.
 - 👀 I’m a iOS developer.
-- :orange_book: Focusing on React Native & Swift & iOS
+- :orange_book: Focusing on React Native & SwiftUI
 
 
 <!--
